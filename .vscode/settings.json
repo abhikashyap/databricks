@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/career/.pyspark-env/bin/python",
+  "python-envs.terminal.autoActivationType": "command",
+  "python.terminal.activateEnvironment": true
+}
